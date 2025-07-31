@@ -55,17 +55,16 @@ A full-stack web application built using the MERN (MongoDB, Express, React, Node
 
 ## 🚀 Getting Started
 
-
-###### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/recipe-sharing-app.git
 cd recipe-sharing-app
 
-### 2. Create .env File in /backend
+### Create .env File in /backend
 PORT=2000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
-### 3. Install Dependencies
+
+### Install Dependencies
 Backend
 cd server
 npm install
